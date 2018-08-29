@@ -40,6 +40,7 @@ INSTALLED_APPS = (
     'blog',
     'teamios',
     'debug_toolbar',
+    'drowchart',
 )
 
 MIDDLEWARE_CLASSES = (
